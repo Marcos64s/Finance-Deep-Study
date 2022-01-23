@@ -1,0 +1,21 @@
+4 tabelas - dados parciais
+CAPM 
+E - rf = alpha + beta(j) [rm -rf]
+
+alpha ~= 0
+Bj = 1 ( risco igual ao mercado )
+
+relacionar risco com rendibilidade (E)
+
+E - rf = alpha + beta(j) [rm -rf] + x + y
+
+o objetivo é estudar o x e y
+x - tamanho/dimensão (ME - SMB)
+y - valor (BM - HLM)
+
+tabelas 2,4,6 - replicar
+
+fazer estimação com a totalidade dos dados
+quebras estruturais? dois grandes periodos de crise
+
+
